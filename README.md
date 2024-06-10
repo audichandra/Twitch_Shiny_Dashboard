@@ -70,7 +70,7 @@ install.packages("hexbin")          # Hexagonal binning plots
 
 ## Results
 
-![Games Popularity Tracker]((https://github.com/audichandra/Twitch_Shiny_Dashboard/blob/main/img/twitchshiny.png)
+![Games Popularity Tracker](https://github.com/audichandra/Twitch_Shiny_Dashboard/blob/main/img/twitchshiny.png)
 
 you can also access the [dashboard](https://audichandra.shinyapps.io/Twitch_Dashboard/) directly and you can get some results such as: 
 - Global games metric trends such as viewership and streaming
